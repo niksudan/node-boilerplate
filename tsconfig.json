@@ -4,10 +4,9 @@
     "sourceMap": true,
     "module": "commonjs",
     "target": "es5",
-    "jsx": "react",
     "strictNullChecks": true,
     "removeComments": true,
-    "lib": ["dom", "es2015", "esnext", "esnext.asynciterable"]
+    "lib": ["es2015", "esnext", "esnext.asynciterable"]
   },
   "include": ["./src/**/*"]
 }
