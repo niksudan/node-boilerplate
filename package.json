@@ -1,12 +1,12 @@
 {
   "dependencies": {
-    "typescript": "^2.7.1"
+    "typescript": "^2.8.1"
   },
   "devDependencies": {
-    "@types/node": "^9.4.5",
+    "@types/node": "^9.6.1",
     "onchange": "^3.3.0",
     "tslint": "^5.9.1",
-    "tslint-config-airbnb": "^5.6.0"
+    "tslint-config-airbnb": "^5.8.0"
   },
   "scripts": {
     "dev": "onchange 'src/**/*.ts' -- npm run change",
